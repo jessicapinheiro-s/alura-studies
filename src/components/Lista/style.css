@@ -1,0 +1,11 @@
+.lista{
+    list-style: none;
+}
+.lista-item{
+    padding: 5px;
+    background-color: #5e2f8a;
+    color: #fff;
+    .lista-item:hover{
+        background-color: #8f42d8;
+    }
+}
