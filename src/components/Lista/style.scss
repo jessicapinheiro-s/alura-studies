@@ -1,11 +1,14 @@
 .lista{
     list-style: none;
+    width: 600px;
+    margin: 0px auto;
 }
 .lista-item{
-    padding: 5px;
+    padding: 0px 10px;
     background-color: #5e2f8a;
     color: #fff;
     .lista-item:hover{
         background-color: #8f42d8;
     }
+    border-radius: 10px;
 }
